@@ -81,6 +81,7 @@ Titanic-Survival-Analysis/
 │   └── test.csv
 ├── README.md
 └── images/
+│   └── visualizations
 ```
 
 ## Future Improvements
